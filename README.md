@@ -160,8 +160,7 @@ AI-Person-Identification-System/
 
 ## Clone Repository
 
-git clone https://github.com/abhiram3023/AI-Person-Identification-System.git
-
+git clone https://github.com/Sachita23/AI-Person-Identification-System.git
 ## Move Into Folder
 
 cd AI-Person-Identification-System
@@ -232,9 +231,6 @@ The GUI contains:
 ![GUI](screenshots/Project_output_GUI_2.png)
 ![GUI](screenshots/Project_output_GUI_3.png)
 
-## Real-Time Detection
-
-(Add screenshot here)
 
 ---
 
